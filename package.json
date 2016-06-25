@@ -1,0 +1,30 @@
+{
+  "name": "brackets-stylelint",
+  "version": "0.1.0",
+  "title": "stylelint",
+  "description": "Adds stylelint support to Brackets",
+  "engines": {
+    "brackets": ">=1.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmikrot/brackets-stylelint.git"
+  },
+  "keywords": [
+    "brackets",
+    "stylelint",
+    "extension",
+    "css",
+    "lint"
+  ],
+  "categories": "linting",
+  "author": "Donovan Mikrot <donovan@donovan.mn> (http://www.donovan.mn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmikrot/brackets-stylelint/issues"
+  },
+  "homepage": "https://github.com/dmikrot/brackets-stylelint#readme"
+}
